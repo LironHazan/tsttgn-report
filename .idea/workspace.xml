@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1a65cac-4638-4a10-8916-a2e8f25d7a68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="/usr/local/bin/elm" elmFormatPath="null" elmTestPath="null" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="e9cgrn88" />
+  </component>
+  <component name="ProjectId" id="1ijoObukEd35Hv580AOZnD1h8zF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a65cac-4638-4a10-8916-a2e8f25d7a68" name="Default Changelist" comment="" />
+      <created>1602430331054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602430331054</updated>
+      <workItem from="1602430332158" duration="816000" />
+      <workItem from="1602676814241" duration="3707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1720" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602939938168">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="100" y="123" width="1720" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.246.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1602939938168" />
+  </component>
+</project>
